@@ -1,0 +1,25 @@
+{
+    "name": "ara-ara",
+    "version": "2.1",
+    "description": "yandex",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "@whiskeysockets/baileys": "^6.7.9",
+        "axios": "^1.6.0",
+        "body-parser": "^1.20.3",
+        "fs": "latest",
+        "chalk": "^4.1.2",
+        "path": "latest",
+        "fs": "^0.0.1-security",
+        "moment": "^2.29.1",
+        "jscrambler": "latest",
+        "pino": "^9.5.0",
+        "readline-sync": "^1.4.10",
+        "telegraf": "^4.16.3",
+        "js-confuser": "1.7.3",
+        "telegram": "^2.26.8"
+    }
+}
